@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KrypToniK</string>
+
+    <string name="enter_password">To lauch the application, enter your password below :</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome_screen">KrypToniK</string>
+    <string name="enter_application">Enter Application</string>
+
+
+</resources>
